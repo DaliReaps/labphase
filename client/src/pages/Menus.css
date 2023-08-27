@@ -1,0 +1,28 @@
+.menus{
+    padding-top: 50px;
+}
+.category{
+    display: flex;
+    flex-direction: column;
+   
+}
+.item{
+    display: flex;
+}
+.drinkmenu{
+    
+    border: groove;
+}
+.mainmenu{
+    
+    border: groove;
+}
+.dessertmenu{
+    
+    border: groove;
+}
+.appetizermenu{
+    
+    border: groove;
+}
+

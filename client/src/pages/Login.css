@@ -1,0 +1,14 @@
+form{
+    display: flex;
+    flex-direction: column;
+    padding-top: 10%;
+    margin-right: 30%;
+    margin-left: 30%;
+    gap: 50px;
+    color: rgb(176, 176, 84);
+ }
+ input {
+     
+     height:30px ;
+     border-radius: 10px;
+ }
